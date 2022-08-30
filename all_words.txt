@@ -1,0 +1,1297 @@
+rose	pink
+io	Ich
+il suo	sein
+lui	er, ihn, ihm
+era	war
+per	für
+su	auf
+loro sono	sie sind
+con	mit
+essi	sie (Plural)
+essere	zu sein
+a	at, to
+avere	zu haben
+questo	das
+da	von, aus, ab, durch
+caldo	heiß, warm
+parola	Wort
+ma	aber, jedoch
+cosa, che, che cosa	was, etwas, Ding, Sache
+alcuni	einige, manche
+è	ist
+esso	es
+tu	du
+voi	ihr
+o	oder, entweder, sonst
+aveva	hatte
+e	und
+noi	wir, uns
+lattina	Dose
+fuori	raus
+altre, altro	andere, weitere
+erano	waren
+che	dass, so dass
+dopo che	nachdem
+cui	dessen, deren
+fare	tun, machen
+loro	sie (Plural), ihnen
+tempo	Zeit, Wetter
+se	ob, wenn
+volontà	Wille
+come	wie, als, so ... wie
+suddetto	wie gesagt
+ogni	jede, alle
+ciascuno	jeder
+dire	zu sagen
+fa	vor
+desiderare, volere	zu wollen
+aria	Luft
+bene, buono	gut
+anche	auch, ebenfalls, außerdem, schon
+giocare	zu spielen
+piccolo	klein
+fine	Ende, Ziel
+mettere, porre	legen, stellen, etwas setzen
+casa	Haus, Zuhause
+leggere	zu lesen
+mano	Hand
+porto	Hafen
+grande	groß, großartig
+compitare	zu buchstabieren
+aggiungere	hinzufügen, hinzugeben
+terra	Boden, Erd-
+qui	hier
+alto	hoch, groß
+tale	solche, diese, so
+seguire	zu folgen, zu verfolgen
+l'atto	der Akt
+perché	warum, wieso
+chiedere, domandare	fragen
+maschi	Männer
+il cambiamento	die Änderung
+è andato	ging
+luce	Licht
+tipo	Art, Typ
+spento	aus, erloschen, ausgeschaltet
+bisogno	zu brauchen
+immagine	Bild
+provare	zu versuchen
+ancora, di nuovo	wieder
+animale	Tier
+punto	Punkt
+madre	Mutter
+mondo	Welt
+prossimo, vicino	nah
+costruire	zu bauen, zu konstruieren
+stesso	eigene, sich selbst, dasselbe, das Gleiche
+padre	Vater
+qualsiasi, qualunque	irgendwas, irgendein, irgendwelcher
+nuovo	neu
+il lavoro	die Arbeit
+parte	Teil, Abschnitt, Gegend, Anteil
+prendere	zu nehmen
+ottenere	zu kriegen, zu bekommen
+posto	Platz, Ort, Stelle
+fatto	Fakt, Tatsache
+vivere	zu leben
+dove	wo, wohin
+dopo	nach, danach, später
+indietro	zurück, rückwärts
+un poco	ein bisschen
+solo	nur, allein, einzig
+rotondo	rund
+torno	Runde
+uomo	Mann, Mensch
+anno	Jahr
+è venuto	kam
+lo spettacolo	die Show, das Spektakel
+me	mir, mich
+dare	zu geben
+il nostro	unser
+sotto	unter
+nome	Name
+molto	sehr, viel
+attraverso	durch
+forma	Form, Figur
+frase	Satz (also in der Sprache)
+pensare	zu denken
+aiutare	zu helfen
+basso	niedrig, klein
+linea	Linie
+differire	abweichen
+turno	Schicht, Dienst, Runde
+causa	Grund, Ursache
+prima	bevor, vorher
+spostare	verschieben, verrücken, umziehen
+lato destro	rechte Seite
+ragazzo	Junge
+vecchio	alt
+troppo	zu viel
+pari, uguale	gleich
+lei	sie, ihr
+tutto	alles, ganz, jeder
+là/lì	dort
+quando	wenn, während
+il uso	der Nutze, Gebrauch
+il tuo	dein
+via	weg, fort
+via via	nach und nach
+modo	Art, Weise
+strada, sentiero	Straße, Weg
+circa	ungefähr
+tanti	viel, groß
+poi	später, dann
+allora	dann, also
+scrivere	zu schreiben
+sarebbe	würde
+così	so, so sehr, deshalb
+quindi	danach, dann
+lungo	lang
+rendere	machen, erwidern, wiedergeben
+cosa	Sache, Ding
+vedere	zu sehen, zu treffen
+guardare	zu gucken, zu schauen, zu sehen
+più ,di più	mehr
+giorno	Tag
+potere (Nomen)	Macht, Vermögen
+potere (Verb)	zu können
+andare	zu gehen, zu laufen
+venire	zu kommen
+numero	Nummer, Zahl
+suono	Klang, Ton
+persone	Leute
+il mio	mein
+oltre	über, mehr
+sapere	zu wissen
+acqua	Wasser
+una chiamata	ein Anruf
+primo	erste
+chi	wer, jemand
+giù	runter, unten
+lato	Seite
+ora	jetzt, Stunde
+trovare	zu finden
+testa	Kopf, Spitze
+stare in piedi, stare	zu stehen
+proprio	sein, eigen, genau, wirklich
+pagina	Seite
+dovrebbe	sollte
+paese	Land (z.B. Deutschland)
+fondare	zu gründen
+risposta	Antwort
+scuola	Schule
+crescere	zu wachsen, zu steigern
+il studio di	das Studium
+ancora	noch
+imparare	zu lernen
+piantare	zu pflanzen
+una copertura	Decke, Bedeckung
+cibo	Essen, Nahrung
+sole	Sonne
+fra, tra	zwischen
+mantenere	erhalten, sich halten
+occhio	Auge
+mai	nie, jemals
+ultimo	letzte
+lasciare	zu lassen
+pensiero	Gedanke
+città	Stadt
+albero	Baum
+attraversare	zu überqueren, zu durchqueren
+fattoria	Bauernhof
+difficile	schwierig
+l'inizio	der Anfang, der Start
+forza, vigore	Kraft, Stärke, Macht
+storia	Geschichte
+sega	Säge
+lontano	fern, weit (weg)
+mare	Meer, See
+disegnare	zu zeichnen
+sinistra	links
+tardi	spät
+correre	zu rennen
+mentre	während
+chiuso	close
+notte	Nacht
+reale	real, echt
+vita	Leben
+pochi	wenige
+nord	Norden
+libro	Buch
+portare	zu tragen, mitzubringen, führen
+ha preso	nahm
+scienza	Wissenschaft
+mangiare	zu essen
+camera, stanza	Zimmer, Raum
+amico	Freund
+idea	Idee
+pesce	Fisch
+montagna	Berg
+una volta	einmal
+cavallo	Pferd
+taglio	Schnitt
+sicuro	sicher, bestimmt
+un orologio	eine Uhr
+colore	Farbe
+faccia	Gesicht
+legno	Holz
+principale	Haupt-, hauptsächtlich
+è aperto	es ist offen
+sembrare	zu scheinen, auszusehen
+assieme, insieme	zusammen
+prossimo	nächst, bevorstehend
+bianco	weiß
+bambini	Kinder
+iniziare	zu beginnen
+ottenuto	bekam
+camminare	zu laufen, zu gehen
+esempio	Beispiel
+alleviare	erleichtern, lindern
+carta	Papier
+un gruppo	eine Gruppe
+sempre	immer, stets
+musica	Musik
+quei, quelli	diese
+entrambi	beide
+il marchio	das Zeichen
+spesso	dick, oft, häufig
+lettera	Buchstabe, Brief
+fino a quando	solange, bis
+fiume	Fluss
+piedi	Fuß
+curare	zu sorgen, zu pflegen, zu behandeln
+secondo	nach, laut, je nachdem
+abbastanza	genug, ziemlich
+pianura	Ebene
+ragazza	Mädchen
+solito, comune	gewöhnlich, üblich
+giovane	jung
+pronto	bereit
+sopra	auf, über
+rosso	rot
+elenco	Liste
+anche se	auch wenn, selbst wenn
+sentire	zu fühlen, spüren
+Discussioni	Diskussion, Erörterung
+uccello	Vogel
+presto	früh, schnell, bald
+corpo	Körper, Leib
+cane	Hund
+famiglia	Familie
+diretto	direkt
+posa	Pose
+uscire	hinausgehen, aussteigen
+lasciare	zu lassen
+allontanare	weggehen, verlassen, entfernen, abwenden
+canzone	Song
+misurare	zu messen
+porta	Tür
+prodotto	Produkt
+nero	schwarz
+breve	kurz, knapp
+classe	Klasse
+vento	Wind
+la domanda	die Frage, die Anfrage
+accadere, succedere	geschehen, passieren
+integrale, completo	komplett, vollständig
+nave	Schiff
+area	Fläche
+mezzo, metà	halb, Mitte, Hälfte
+ordine	Ordnung, Befehl
+fuoco	Feuer
+sud	südlich, Süden
+problema	Problem
+pezzo	Teil Stück
+ha detto	erzählt
+sapeva	wusste
+passare	vorbeigehen, passieren
+re	König
+pollice	Daumen
+moltiplicare	multiplizieren
+niente	Nichts
+corso	Lauf, Kurs
+ruota	Rad, Reifen
+pieno	voll
+blu	blau
+oggetto	Objekt
+decidere	zu entscheiden
+superficie	Oberfläche
+profondo	tief, tiefgründig
+luna	Mond
+isola	Insel
+piede	Füße
+sistema	System
+occupato	beschäftigt, besetzt
+barca	Boot
+oro	Gold
+possibile	möglich
+piano	flach, Stockwerk, Plan, leise
+asciutto	trocken
+una meraviglia	ein Wunder
+ridere	zu lachen
+migliaia, mille	tausend
+controllare	zu kontrollieren
+gioco	Spiel
+uguagliare	ausgleichen
+perdere	zu verlieren, zu verpassen
+calore	Hitze
+neve	Schnee
+pneumatico	Reifen
+sì	Ja
+riempire	zu füllen
+est	östlich, Osten
+dipingere	zu malen
+lingua	Sprache
+unità	Einheit
+potenza	Macht, Kraft
+certo	sicherlich
+volare	zu fliegen
+cadere	zu fallen
+portare, condurre	zu führen
+scuro	dunkel
+macchina	Maschine
+nota	Notiz
+aspettare	zu warten, zu erwarten
+figura	Figur
+stella	Stern
+scatola	Box
+campo	Feld, Camp
+resto	Rest
+corretto	korrekt
+in grado di, capace	fähig
+bellezza	Schönheit
+guidare, pilotare	zu fahren
+contenere	zu enthalten
+frontale	vordere
+insegnare	zu lehren
+settimana	Woche
+finale	letzte, Schluss, Finale
+verde	grün
+veloce	schnell
+sviluppare	zu entwickeln
+oceano	Ozean
+gratuito	kostenlos
+minuto	Minute
+speciale	speziell
+cioè	beziehungsweise, das heißt, besser gesagt
+incominciare	anzufangen, etw beginnen
+fuga	Flucht
+tesoruccio	Schnuckelchen
+davanti	davor
+siepe	Hecke, Mauer
+scoprire	herausfinden, entdecken, aufdecken
+nientemno	nichts geringeres
+folle	wahnsinnig, irrsinnig
+sbarrare	absperren, verriegeln
+pranzo	Mahl, Essen
+ceppo	Baumstumpf, Stamm
+mentire	zu lügen
+ciotola	Schüssel, Schale
+debole	schwach, Schwäche
+affamato	gierig
+rannichiare	zu kauern
+comparsa	Erscheinen, Auftritt
+paglierricio	Strohsack, Strohlager
+baule	Koffer
+petto	Brust, Oberkörper
+padella	Pfanne
+spada	Schwert
+infilare	einstechen
+giubbotto	Jacke, Weste
+gusto	Geschmack
+garbare	behagen, passen (das passt/gefällt mir nicht)
+indignato	empört, entrüstet
+schiafeggiare	zu ohrfeigen
+assordante	ohrenbetäubend
+piombare	verbleien, verplomben, versiegeln
+sobbalzo	Sprung, Satz
+messo	Bote, Amtsdiener
+chiocciola	Schnecke
+serra	Gewächshaus
+proprietà	Eigenschaft
+ognuno	jedermann, jeder
+papavero	Mohn
+coltre	Decke
+invidiare	beneiden
+torpore	Taubheit
+mandare	schicken, senden
+ombra	Schatten
+pelo	Fell
+frattempo	inzwischen, unterdessen
+labbro	Lippe
+quanto	wie viel, Menge
+alfiere	Läufer
+cortese	höflich
+stracciato	zerrissen
+aria	Luft, Miene (mood im Englischen)
+birillo	Kegel
+nascondere	verstecken, verbergen
+viscido	glitschig, rutschig
+timido	schüchtern, scheu
+urtata	Stoß
+spiacevole, incresciosa	bedauerlich
+simpatia	Sympathie
+mostro	Monster
+colazione	Frühstück
+ormai, ora	nun, jetzt
+soglia	Schwelle
+infingato	schmutzig, schlammig
+mente	Verstand
+dietro	hinter
+chiaro	klar
+coda	Schweif
+produrre	zu produzieren
+spazio	Raum
+migliore	das Beste
+meglio	besser
+vero	wahr
+durante	während
+cento	hundert
+ricordare	sich zu erinnern
+passo	Schritt
+tenere	halten
+ovest	Westen
+interesse	Interesse
+raggiungere	zu erreichen
+cantare	zu singen
+ascoltare	zuhören
+tavolo	Tisch
+meno	weniger, mindeste
+mattina	Morgen
+semplice	einfach, leicht
+verso	in Richtung von
+guerra	Krieg
+contro	gegen
+lento	langsam
+centro	Mitte, Zentrum
+amore	Liebe
+persona	Person
+soldi	Geld
+servire	jdm. dienen, bedienen
+apparire	zu erscheinen
+mappa	Karte
+pioggia	Regen
+regola	Regel
+tirare	ziehen
+freddo	kalt
+avviso	Benachrichtigung, Meldung
+voce	Stimme
+energia	Energie
+caccia	Jagd
+probabile	möglich
+letto	Bett
+fratello	Bruder
+uovo	Ei
+credere	zu glauben
+scegliere, selezionare	auswählen, aussuchen
+contare	zu zählen
+ragione, motivo	Grund, Motiv
+lunghezza	Lüge
+rappresentare	repräsentieren
+arte	Kunst
+variare	variieren
+risolvere	lösen, auflösen
+parlare	sprechen
+peso	Gewicht
+ghiaccio	Eis
+materia	Stoff, Materie
+cerchio	Kreis
+paio, coppia	Paar
+includere	einschließen, in etw. aufnehmen
+onda	Welle
+cuore	Herz
+presente, regalo	Geschenk
+braccio	Arm
+ampio	weit, breit, groß
+vela	Segel
+sedersi	sich setzen
+gara	das Rennen
+finestra	Fenster
+negozio	Laden
+estate	Sommer
+treno	Zug, Bahn
+il sonno	der Schlaf
+dimostrare	zeigen, beweisen
+solitario	einsam
+gamba	Bein
+esercizio	Übung
+muro	Wand, Mauer
+catturare	etw. fangen
+desiderio	Wunsch
+cielo	Himmel
+gioia	Freude
+inverno	Winter
+selvaggio	wild
+strumento	Instrument, Werkzeug
+vetro	Glass
+erba	Gras
+mucca	Kuh
+lavoro	Job, die Arbeit
+bordo	Rand, Kante, an Bord
+un segno	ein Zeichen
+passato	Vergangenheit
+morbido	weich
+divertimento, spasso	Vergnügen, Spaß
+luminoso	hell
+meteo	Wetter
+mese	Monat
+sopportare	aushalten
+felice	glücklich, fröhlich
+speranza	Hoffnung
+fiore	Blume
+vestire	sich anziehen
+strano	merkwürdig, komisch
+commercio	Handel
+melodia	Melodie
+viaggio	Reise, Fahrt
+ufficio	Büro
+ricevere	empfangen
+fila	Reihe
+bocca	Mund
+esatto	exakt
+morire	sterben
+difficolt	Schwierigkeit
+urlare, gridare	schreien
+tranne	außer, bis auf
+seme	Samen
+tono	Ton
+aderire	etw beitreten
+suggerire	empfehlen, vorschlagen
+signora	Dame
+salire	steigen, hinaufsteigen
+male	schlecht
+colpo	Hieb, Schlag, Stoß
+olio	öl
+sangue	Blut
+toccare	berühren
+mescolare	Mix
+marrone	Braun
+indossare	(Kleidung) tragen
+giardino	Garten
+adattare	anpassen, angleichen
+fiera	fair
+raccogliere	sammeln
+salvare	schptzen, retten, sichern
+orecchio	Ohr
+altro	andere, weitere
+piuttosto	ziemlich, eher
+rotto	kaputt, zerbrochen
+uccidere	töten
+figlio	Sohn
+lago	See
+scala	Treppe, Skala
+primavera	Frühling
+osservare	beobachten
+bambino	Kind, Baby
+latte	Milch
+velocit	Geschwindigkeit
+metodo	Methode
+pagare	bezahlen
+età	Alter
+vestito	Kleid
+nube	Wolke
+sorpresa	Überraschung
+tranquillo	still
+pietra	Stein
+figo	cool
+designare	etw. designen
+povero	arm (Gegenteil von reich)
+fondo	tief, Boden
+chiave	Schlüssel
+ferro	Eisen
+singolo	Single
+bastone	Stock, Schläger
+pelle	Haut
+sorriso	Lächeln
+piega	Falte
+foro	Loch
+villaggio	Dorf
+incontrare	jmd. treffen
+radice	Wurzel
+comprare, acquistare	kaufen
+aumentare	steigern, erhöhen
+spingere	schieben, drücken
+terzo	dritte
+capelli	Haar
+descrivere	beschreiben
+cuoco	Koch
+piano, pavimento	Boden
+risultato	Ergebnis
+bruciare	verbrennen
+collina	Hügel
+gatto	Katze
+secolo	Jahrhundert
+considerare	bedenken, überdenken
+legge	Gesetz
+costa	Küste
+copia	Kopie
+sabbia	Sand
+rotolo	Rolle
+dito	Daumen, Figner
+industria	Industrie
+valore	Wert
+lotta	Kampf
+bugia	Lüge
+battere	schlagen
+eccitare	aufregen, reizen
+vista	Sicht
+senso	Sinn
+sedia	Stuhl
+pericolo	Gefahr
+frutta	Frucht
+ricco	reich
+per favore, prego	bitte
+proteggere	beschützen
+mezzogiorno	Mittag
+raccolto	Ernte
+angolo	Ecke
+partito	Party
+fornitura	Lieferung, Versorgung
+individuare	lokalisieren
+anello	Ring
+osso	Knochen
+immaginare	vorstellen, überlegen
+concordare	zustimmen
+dolce	süß, sanft, mild
+donna	Frau
+indovinare	raten
+necessario	notwendig
+tagliente	scharf (beim Messer)
+ala	Flügel
+creare	erschaffen	
+lavaggio	Wäsche
+pipistrello	Fledermaus
+anzi	sondern, eher
+folla	Menschenmenge
+confrontare	vergleichen
+campana	Glocke
+dipendere	abhängen
+carne	Fleisch
+strofinare	sich reiben
+famoso	prominent
+ruscello	Bach
+paura	Angst
+sottile	dünn
+fretta	Eile
+capo	Kopf, Chef
+orologio	Uhr
+miniera	Mine, Bergwerk
+entrare	eintreten, reinkommen
+maggiore	größte (Teil)
+fresco	frisch
+ricerca	Suche
+inviare	senden
+giallo	gelb
+permettere, consentire, concedere	erlauben
+morto	tot
+deserto	Wüste
+abito	Anzug
+ascensore	Aufzug
+arrivare	ankommen
+maestro	Meister
+pista	Piste
+genitore	Elternteil
+riva	Ufer
+foglio	Blatt
+collegare	verbinden
+spendere	ausgeben
+grasso	fett
+spartire, condividere, dividere	teilen
+stazione	Bahnhof
+papà	Papa
+pane	Brot
+carica	Ladung
+offerta	Angebot
+schiavo	Sklave
+anatra	Ente
+subito, immediato, improvviso	sofort
+mercato	Markt
+popolare	bevölkern, besiedeln
+nemico	Gegner, Feind
+rispondere	antworten
+bere	trinken
+discorso	Rede
+vapore	Dampf
+movimento, moto	Bewegung
+significare qualcosa	etw bedeuten
+denti	Zähne
+guscio	Schale
+collo	Nacken
+zucchero	Zucker
+morte	Tod
+abilit	Fähigkeit
+stagione	Jahreszeit
+soluzione	Lösung
+argento	silber
+grazie	Danke
+ramo	Ast, Zweig, Branche
+la partita	Partie, Spiel
+particolarmente	insbesondere
+impaurito	beängstigt
+sorella	Schwester
+acciaio	Stahl
+discutere	diskutieren
+avanti	vorwärts
+simile	ähnliche
+guidare	führen, leiten, fahren
+esperienza	Erfahrung
+mela	Apfel
+cappotto	Mantel
+scheda	Karte
+slittare, scivolare	ausrutschen
+vittoria	Sieg
+sognare	träumen
+sera	Abend
+condizione	Bedingung
+nutrire	ernähren, füttern
+totale	total
+l'odore	der Gerucht
+valle	Tal
+nè	weder
+doppio	doppel
+sedile	Sitz
+continuare	fortführen
+il blocco	der Block
+cappello	Mütze, Hut
+vendere	verkaufen
+successo	Erfolg
+azienda	Firma
+sottrarre	abziehen
+evento	Event
+affare	Deal, Abmachung
+nuotare	schwimmen
+opposto	gegenüberliegen, Gegenteil
+moglie	Frau
+scarpa	Schuh
+spalla	Schulter
+organizzare	organisieren
+inventare	erfinden
+cotone	Baumwolle
+nascita	Geburt
+determinare	bestimmen
+quarto	Viertel
+camion	LKW
+rumore	Geräusch
+livello	Level
+possibilit	Chance, Möglichkeit
+brillare	auf etw. scheinen
+colonna	Spalte
+sbagliato	falsch
+grigio	grau
+riprendere	wiederholen
+richiedere	benötigen
+preparare	vorbereiten
+sale	Salz
+rabbia	Wut
+richiesta	Anfrage
+fermare	aufhören
+aprire	öffnen
+ecco	da, hier, so, (hier bitte Schön)
+allora	also, dann, nun
+cena	Abendessen
+piangere	weinen
+però	jedoch, trotzdem
+arrabbiato	böse, sauer
+rovinare	ruinieren
+giusto	richtig, gerecht, fair
+salve	Hallo
+qualcosa	etwas
+stare	sein, bleiben
+piacere	mögen
+stronzate, cazzate	Scheiß
+rischiare	riskieren
+nessuno	niemand
+ospite	Gast
+carino	süß (Mädchen z.B.)
+prudenza	Vorsicht
+recuperare	wiederbekommen
+ne	darüber, davon, damit, darunter
+brutta	hässlich
+lamentarsi, lamentare	sich beschweren
+infatti	tatsählich
+odiare	hassen
+scemo	dumm, blöd, bescheuert
+comprendere, capire	verstehen
+deludere	enttäuschen
+leale, fedele	loyal
+perdonare	verzeiehn, vergeben, entschuldingen
+colpa	Schuld
+aereo	Flugzeug
+l'ometto	kleiner Mann
+gettare, scaraventare, scagliare	werfen
+cintura	Gürtel
+sbalordito, esterrefatto	fassungslos
+prevedere	erwarten, vorraussehen
+stanotte	heute Nacht
+francamente	ehrlich gesagt
+osare	wagen, sich trauen
+sbirciare	schielen
+celebrare, festeggiare	feiern
+trasalire	zusammen zucken
+catturare	fangen
+strabiliante	verblüffend, unfassbar
+sopravvivere	überleben
+lacrime	Tränen
+abitare	 wohnen
+girare	sich drehen, wenden
+levare	hochheben, erheben	
+rimuovere	entfernen
+l'inchriosto	Tinte
+alzare	aufstehen
+riuscere	erfolgreich sein
+nastro	Tape, Band	
+scorso	vorige, letzte 
+cattivo	böse, boshaft, schlecht
+matta	verrückt
+tornare, ritornare	wieder kommen, zurückkommen
+talmente	dermaßen, deartig
+decretare	verordnen, bestimmen
+testare	testen
+palestra	Gym, Fitnessstudio
+venerdi	Freitag
+spiegare	erklären
+scopare	ficken
+appena	gerade, soeben
+orrore	Horror
+offesa	Angriff, Kränkung
+incinta	schwanger
+scherzo	Witz
+scendere	runterkommen, runtergehen
+licenziare	jmd. feuern
+pompa	Pumpe
+neanche	nicht mal, auch nicht
+mutuo	Darlehen, Kredit
+vergognarsi	sich schämen
+assagiare	schmecken
+baciare	küssen
+fumo	Rauch
+cambiare	ändern
+asino	Esel
+fidanzata	Freundin (feste Freundin)
+distruggere	zerstören
+magari, forse	möglicherweise, vielleicht
+annusare, odorare	riechen
+infanzia	Kindheit
+dolore	Schmerz
+trascurare	vernachlässigen
+fiato	Atem, Hauch
+scorrere	fließen, strömen
+bicicletta, bici	Fahrrad
+fidarsi, confidare	jdm. vertrauen
+sminuire	schmälern, abwerten
+malinteso	Missverständnis
+ieri	gestern
+domani	morgen
+oggi	heute
+l'altro ieri	vorgestern
+lettore	leser
+diventare	zu etw. werden
+innanzitutto	zunächst, vorab
+godere	genießen
+ammirare	bewundern
+eroismo	heroism
+di poi, senno di poi	hinterher, im Nachhinein
+fredezza	Kälte
+possedere	besitzen
+genere	Art, Genre
+sforzo	Bemühung, Anstrengung
+costringere, forzare, incalzare	jdm. bedrängen, jdm. zu etw. zwingen
+valigetta	Aktenkoffer
+cionostante	nichts desto trotz
+ciambella	Donut
+pomeriggio	Nachmittag
+trapanare	bohren
+spegnere	abschalten
+buio	Dunkelheit
+mica	gar, überhaupt
+proprio così	genau so
+già	schon, bereits
+sparire, scomparire	to vanish, verschwinden
+svegliarsi	aufwachen
+pure	auch, auch wenn, sogar
+zio	Onkel
+zia	Tante
+tregua	Waffenstillstand
+baffi	Schnurrbart
+peggio	schlechter, schlimmer
+ghenga	Clique
+indomani	am nächsten TAg
+custode	Hausmeister
+balzare	springen
+tasca	Tasche
+balordo	unsinnig, dumm
+la fifa	der Schreck
+dentro	drinne, herein
+fissare	fixieren, befestigen
+espellere	verweisen
+roba	Zeug, Dinge, Sachen
+immischiare	einmischen
+scopa	Besen
+oppure	oder, sonst
+balbettare	stottern
+falciare	mähen
+soffitto	Decke
+nuca	Hinterkopf
+il pizzicore	ein Jucken
+zitto!	Leise!, Halts Maul!
+così	so, also
+pallido	bleich
+pigiare	drücken, pressen
+tratto	Strich, Eigenschaft, Merkmal
+mucchio	Haufen
+sul serio	ernsthaft
+preoccupare	sich sorgen
+pugno	Faust
+dopodiché	danach, darauf
+il fiammifero	Streichholz
+ciascuno	jeder
+ago	Nadel
+aula	Klassenzimmer
+aglio	Knoblauch
+ovunque	überall
+nonna	Oma
+giurare	schwören
+voi	ihr
+desiderare	wünschen, verlangen
+atto	Akt
+cambiamento	Änderung
+ancora, di nuovo	wieder
+sè, sè stesso	selbst
+qualsiasi, qualunque	irgendein, irgendwas
+un poco	ein wenig
+diritto	das Recht
+pagina	Buchseite
+lunedi	Montag
+martedi	Dienstag
+mercoledi	Mittwoch
+giovedi	Donnerstag
+sabato	Samstag
+domenica	Sonntag
+compito	Aufgabe, Auftrag
+giunta	Rat (z.B. Stadtrat)
+meritare	verdienen, wert sein, sich lohnen
+tremolare	zittern
+schermo	Schirm (kein Regenschirm), Bildschirm, Leinwand
+pena	Leid, Qual, Strafe
+pena, sanzione	Strafe
+ingresso	Einfahrt, Eingang
+mise	(Mode) Stil, Kleid
+retro	Rückseite
+randagio	streunend (so wie ein Streuner)
+eccetera	etc.
+fossa	Grube, Graben
+zampa	Bein, Fuß, Pfote
+storcere	verbiegen, verdrehen
+ginocchio	Knie
+ruolo	die Rolle (sowas wie Hauptrolle)
+carozza	Kutsche, Wagen
+svenuto	ohnmächtig
+allegro	lustig, heiter
+quadro	Bild, Gemälde, Viereck
+lambire	lecken
+malsano	ungesund, krankhaft
+perfino	sogar, selbst
+avviare	einleiten, anbahnen, anführen
+arancione	orange
+squillante	hell, schrill
+perennemente, eternamente	ewig
+spavento	Schreck
+vantaggio	Vorteil, Vorsprung
+fuga	Flucht
+lampo	Blitz
+amato	geliebt
+fine settimana	Wochenende
+sbadiglio	Gähnen
+secchio	Eimer
+volpe	Fuchs
+gramo	trostlos, freudlos
+magro	mager
+rivolere	etw. zurückverlangen, etw. zurückwollen
+comportarsi	sich verhalten, sich benehmen
+muso	Maul, Schnauze
+sorso	Schluck
+vuoto	leer, hohl
+calice	Kelch
+smorfia	Grimasse, Fratze
+sconfitta	Niederlage
+leggero	leicht, dünn
+rancore	Groll
+smettila	lass das!, hör auf!
+parecchio	viel, lange
+sgretolare	zerbröckeln
+obliquo	schräg, schief
+mancare	fehlen
+parere	scheinen, aussehen
+guaio	Schwierigkeit, Ärger
+verdetto	Urteil
+fatica	Mühe
+vicinanza	Nähe
+urtare	stoßen, prallen, anstoßen
+teso	straff, gespannt
+sereno	unbeschwert, heiter
+disteso	entpannt
+seducente	verführerisch, verlockend
+sbuffo	Böhe, Windstoß
+abiti	Kleidung
+spavalderia	Frechheit, Dreistigkeit
+orbo	blind
+fiero	stolz (adj.)
+invero	wahrlich
+prato	Wiese
+topo	Maus, Ratte
+strato	Schicht
+consegnare	abgeben, aushändigen
+ciondolare	baumeln, hängen lassen
+ronzio	ein Summen, ein Brummen
+stordito	betäubt, benommen
+mossa	Bewegung, Handlung
+debole	schwach
+tacere	schweigen
+firma	Unterschrift
+nuvola	Wolke
+ansia	Sorge, Beklemmung
+cervo	Hirsch
+ramoso	astig, verzweigt
+rospo	Kröte
+valigia	Gepäck, Koffer
+benché	obwohl, obgleich
+serra	Gewächshaus
+ripostiglio	Abstellkammer
+parente	Verwandte
+sgombra/sgombro	frei, leer, Makrele
+schiena	Rücken, Kreuz
+affannoso	keuchend
+accanto	daneben, nebenan
+tenda	Zelt, Vorhang
+bensì	sondern, zwar
+secco	trocken, ausgetrocknet
+cieco	blind
+scagionare	entlasten
+parere	scheinen, aussehen
+timore	Furcht, Angst, Ehrfurcht
+noia	langweilig, Langeweile
+assaggiare, assaporare	kosten, schmecken, probieren
+vispo	lebhaft, rege
+tosto	hart, fest, taff, sobald
+cozzare	stoßen
+coricarsi	sich hinlegen
+inontito	betäubt, benommen
+zaino	Rucksack
+congelare	einfrieren, frosten
+lama	Lama, Klinge, Schneide
+scontroso	ungesellig, mürrisch
+reggere	festhalten, stürzen
+granché	nichts besonderes, nicht so viel
+lombaggine	Hexenschuss
+lumaca	Schnecke
+rubinetto	Wassserhahn
+cronaca	Reportage, Bericht
+molle	weich, locker, durchnässt
+tramonto	Sonnenuntergang
+tramontare	untergehen
+fracasso, chiasso	Krach, Lärm
+fallo	Verstoß, Foul, Fehltritt
+tela	Gewebe, Tuch
+radura	Lichtung
+illeso	unverletzt, unversehrt
+soglia	Schwelle
+casetta	kleines Haus
+inebetire	betäuben, verblöden
+aggredire	angreifen
+pus	Eiter
+addosso	bei sich, am Leib, auf
+fioco	schwach, matt
+perdono	Entschuldigung
+collasso	Kollaps
+cattedra	Pult
+seta	Seide
+faccenda	Angelegenheit
+inondare	überschwemmen, überfluten
+sistemare	stellen, unterbringen, einordnen
+gelido	eiskalt, eisig
+livore	Neid, Missgunst
+minaccia	Bedrohung, Gefahr
+sazio	satt
+cammufare	verkleiden, verschleiern
+vuota	leer, hohl
+sordo	taub
+pera	Birne
+scalmana	Erkältung
+scrutare	beobachten, absuchen
+estero	ausländisch
+lite	Streit
+semmai	wenn (überhaupt), notfalls, allenfalls
+roco	heiser, rau
+insomma	also, schließlich, endlich
+cicca	Kaugummi
+orgoglio	Stolz, Hochmut
+guanto	Handschuh
+muso	Maul, Schnauze
+sporco	schmutzig, dreckig
+cupo	tief, düster, dunkel, dumpf
+incolume	unversehrt
+spinoso	dornig, stachelig
+gola	Hals, Rachen, Kehle
+caviglia	Knöchel
+collimare	übereinstimmen
+pollo	Huhn
+cimice	Wanze
+estivo	sommerlich
+alba	Morgengrauen, Sonnenaufgang
+appuntare	notieren
+rapimento	Entführung
+giretto	Spaziergang
+danno	Schaden
+patto	Pakt, Vereinbarung
+esterno	äußerlich,Außen
+corazza	Panzerung
+annegare	ertränken, ertrinken
+teschio	Schädel
+cimitero	Friedhof
+orlo, bordo	Rand
+ritrovato	Entdeckung, Erfindung
+ferita	Wunde, Verletzung
+lode	Lob
+godersi	genießen
+l'istruzioni (f.)	Anweisung
+l'attivita	Aktivität
+fisico	körperlich
+la salute	Gesundheit
+collaborare	an etwas mitwirken, kollaborieren, kooperieren
+adottare	adoptieren
+la guida	Leitfaden, Guide
+benvenuto	willkommen
+ricaricare	aufladen
+la batteria	Batterie
+staccare	abschalten
+venire in mente	einfallen, in den Sinn kommen
+la mente	Verstand, Geist
+la categoria	Kategorie
+elencare	auflisten
+rientrare	vorkommen
+in più	in mehreren
+all'aperto	draußen, im Freien
+al chiuso	drinnen
+il manuale	Handbuch, Anleitung
+il buonumore	gute aune
+ritrovare	wiederfinden
+stanco	müde
+nervoso	nervös
+stressato	gestresst
+preoccupato	besorgt
+di cattivo umore	schlecht gelaunt
+l'umore	Laune
+la ricetta	Rezept
+che fa per te	wie für dich gemacht
+intero	ganz
+il PC	PC
+ogni tanto	gelegentlich, ab und zu
+ci vuole	man braucht
+volerci	ist nötig, wird gebraucht
+come minimo, almeno	mindestens
+il minimo	Minimum
+il movimento	Bewegung
+anzi	sogar, besser noch
+l'organizzazione (f.)	Organisation
+la sanità	Gesundheitswesen
+l'impegno	Termin, Verpflichtung
+concedersi	sich gönnen
+fare il pieno	voll tanken
+la luce	Licht, Sonnenstrahlen
+la tenda	Vorhang, Gardine
+rubare	stehlen, entziehen
+il sonno	SChlaf
+bisogna	es ist nötig, man muss
+a sufficienza	genügend, ausreichend
+ricco	reich
+la mandorla	Mandel
+gli spinaci	Spinat
+la noce	Walnuss
+rinunciare	verzichten
+fondente	zartbitter
+con gusto	mit Genuss
+benessere	Wohlbefinden
+esagerare	übertreiben
+chicchierare	reden, quatschen
+depresso	traurig, depressiv
+il farmaco	Medikament
+sfogarsi	Dampf ablassen, sich ausweinen
+cantare	singen
+a squarciagola	lauthals
+il polmone	Lunge
+sentirsi	sich fühlen
+felice	glücklich
+portare a spasso	Gassi gehen
+occuparsi	sich kümmern, versorgen
+il criceto	Hamster
+moltiplicare	multiplizieren, vermehren
+l'ormone	Hormon
+ci vogliono	es werden gebraucht, es sind nötig
+la volontà	Wille
+la necesssità	Notwendigkeit
+siccità	Dürre
+penombra	Halbschatten
+aiuola	Beet
+tesoro	Schatz, Tresor
+sasso	Stein, Felsen
+opera	Werk, Arbeit
+scomparire	verschwinden
+indugiare	zu zögern, sich verzögen
+veglia	Wache
+catena	Kette, Fessel
+pettinare	kämmen, frisieren
+doccia	Dusche
+palcoscenico	Bühne
+togliere	abnehmen, wegnehmen, wegräumen
+puzzare	stinken
+folata	Böe
+soave	angenehm, lieblich
+onesto, schietto	ehrlich
+acre	herb, sauer
+alleato	Verbündeter
+pacato	gelassen, ruhig
+esercito	Armee, Heer
+rimestare	umrühren
+quadro	Bild, Gemälde
+barcollare	taumeln, schwanken
+rana	Frosch
+rospo	Kröte
+spazzatura	Müll, Abfall
+verme	Wurm
+mise	Kleidungsstil
+segugio	Spürhund
+cuoio	Leder
+insolenza	Frechheit, Beleidigung
+incombere	drohen
+solco	Spur, Rille
+frastuono	Lärm
+iracondo	jähzornig
+botola	Falltür
+manciata	Handvoll
+fazzoletto	Taschentuch
+asciugamano	Handtuch
+affamera	aushungern
+scatto	Ruck, ein Zuschnappen
+cianciare	schwatzen, schwafeln
+gelido	eiskalt, eisig
+orlo	Rand
+pattugliare	patrouillieren
+maglia	Masche
+vischio	Mistel
+suturare	nähen
+guarito	geheilt, gesund
+mite	mild
+coso	Dingsbums
+degno	würdig, wert
+vissuto	erfahren (adjektiv)
+cigno	Schwan
+inorridito	entsetzt
+nodo	Knoten
+fegato	Leber
+tramonoto	Sonnenuntergang
+alba	Sonnenaufgang
+svitare	lösen, lockern
+intanto	inzwiscehn, unterdessen
+levigare	schleifen, polieren
+loquace	gesprächig
+mira	Ziel
